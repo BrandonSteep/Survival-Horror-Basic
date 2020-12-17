@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/BASIC ENGINE ASSETS/Test Scenes/Player Controller Test.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
